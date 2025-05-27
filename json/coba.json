@@ -1,0 +1,24 @@
+[
+{
+    "nama": "Arsyad",
+    "umur": 21,
+    "nim": "2217020059",
+    "lulus": true,
+    "hobi": [
+        "gaming",
+        "olahraga",
+    ] ,
+    "pembimbing": "Adhitya Prasetyo",
+},
+{
+    "nama": "Arsyad",
+    "umur": 21,
+    "nim": "2217020059",
+    "lulus": true,
+    "hobi": [
+        "gaming",
+        "olahraga",
+    ] ,
+    "pembimbing": "Adhitya Prasetyo",
+}
+]
