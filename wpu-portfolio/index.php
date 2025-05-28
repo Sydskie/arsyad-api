@@ -1,6 +1,6 @@
 <?php 
 $curl = curl_init();
-curl_setopt($curl, CURLOPT_URL, 'https://www.googleapis.com/youtube/v3/channels?part=snippet,statistics&id=ye1FKPufftw%26t=3s&key=AIzaSyCHhedKFaAJEKbYPRhmbaADfngMXc4nUJw');
+curl_setopt($curl, CURLOPT_URL, 'https://www.googleapis.com/youtube/v3/channels?part=snippet,statistics&id=UCZq2sOlSQ3GHhQqPNId-YUA&key=AIzaSyCHhedKFaAJEKbYPRhmbaADfngMXc4nUJw');
 curl_setopt($curl, CURLOPT_RETURNTRANSFER, 1);
 $result = curl_exec($curl);
 curl_close($curl);
