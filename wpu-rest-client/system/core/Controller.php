@@ -70,6 +70,9 @@ class CI_Controller {
 	public $lang;
 	public $load;
 	public $db;
+	public $session;
+	public $Mahasiswa_model;
+	public $form_validation;
 
 	/**
 	 * Class constructor
